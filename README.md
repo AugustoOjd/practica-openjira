@@ -1,3 +1,7 @@
+### Demo OpenJira
+
+Esto es una practica utilizando, nextjs, typescript, mongo compass y docker
+
 # Next.js OpenJira App
 Para correr localmente, se necesita la base de datos
 
